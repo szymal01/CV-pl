@@ -18,6 +18,8 @@ aside {
 }
 .cv-photo {
   margin-top: 25px;
+  border-bottom: 5px solid white;
+  border-top: 5px solid white;
 }
 .header-secondary {
   color: #ffffff;
